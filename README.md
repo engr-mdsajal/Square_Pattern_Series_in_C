@@ -1,0 +1,1 @@
+# Square_Pattern_Series_in_C
